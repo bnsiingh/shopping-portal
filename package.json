@@ -1,7 +1,7 @@
 {
   "name": "mogambo-front-end",
   "version": "0.0.2",
-  "description": "Front end for Lagairogo  application.",
+  "description": "Front end for Arun Prabhu  application.",
   "main": "server.js",
   "config": {
     "service": "FRONTEND",
