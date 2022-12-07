@@ -21,7 +21,7 @@ pipeline {
       steps {
         echo 'this is the package job'
         sh 'npm run package'
-        sleep 7
+aster
       }
     }
 
@@ -31,7 +31,7 @@ pipeline {
   }
   post {
     always {
-      echo 'This is my first pipeline as code...'
+
     }
 
   }
